@@ -112,4 +112,4 @@ exports
 *.cache
 build
 .strapi-updater.json
-./my-test/.gitignore
+package-lock.json
