@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "churchweb",
+    "api_key": "412154494914593",
+    "api_secret": "LYZakkOmRro176Uxkb3dnbKg9hs"
+  }
+}
